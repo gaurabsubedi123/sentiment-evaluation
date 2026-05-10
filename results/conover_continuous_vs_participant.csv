@@ -1,0 +1,8 @@
+Comparison,Mean Model,Mean Participant,Mean Diff,Conover p (Holm-adj)
+Participant vs spaCy,0.5633,0.6211,0.0579,3.2608516578768563e-52
+Participant vs nltk,0.5854,0.6211,0.0358,8.861569897137144e-24
+Participant vs nlptown,0.6139,0.6211,0.0072,0.0024397529687678163
+Participant vs cardiff,0.5906,0.6211,0.0305,0.0012338709305801604
+Participant vs tabmulti,0.5159,0.6211,0.1052,1.3523383750243417e-109
+Participant vs hartmann,0.4858,0.6211,0.1353,5.15330645075117e-115
+Participant vs bhadresh,0.5597,0.6211,0.0615,1.528259978586728e-19

@@ -1,0 +1,29 @@
+Model,Quartile,n,mean_words,accuracy,macro_f1
+spaCy,Q1 (shortest),747,17.0,0.4284,0.3515
+spaCy,Q2,681,25.5,0.4376,0.3589
+spaCy,Q3,624,31.4,0.4728,0.3937
+spaCy,Q4 (longest),678,41.2,0.4366,0.3434
+NLTK,Q1 (shortest),747,17.0,0.5248,0.519
+NLTK,Q2,681,25.5,0.5698,0.5552
+NLTK,Q3,624,31.4,0.5256,0.5003
+NLTK,Q4 (longest),678,41.2,0.5133,0.5015
+nlptown,Q1 (shortest),747,17.0,0.5422,0.4645
+nlptown,Q2,681,25.5,0.5595,0.5013
+nlptown,Q3,624,31.4,0.5304,0.4596
+nlptown,Q4 (longest),678,41.2,0.5664,0.5134
+Cardiff,Q1 (shortest),747,17.0,0.5596,0.5527
+Cardiff,Q2,681,25.5,0.5991,0.5844
+Cardiff,Q3,624,31.4,0.5689,0.5452
+Cardiff,Q4 (longest),678,41.2,0.59,0.5704
+tabmulti,Q1 (shortest),747,17.0,0.4672,0.4604
+tabmulti,Q2,681,25.5,0.5169,0.489
+tabmulti,Q3,624,31.4,0.4984,0.4615
+tabmulti,Q4 (longest),678,41.2,0.4971,0.444
+Hartmann,Q1 (shortest),747,17.0,0.4552,0.401
+Hartmann,Q2,681,25.5,0.5272,0.4482
+Hartmann,Q3,624,31.4,0.4984,0.4314
+Hartmann,Q4 (longest),678,41.2,0.5118,0.4463
+Bhadresh,Q1 (shortest),747,17.0,0.5074,0.462
+Bhadresh,Q2,681,25.5,0.5242,0.4716
+Bhadresh,Q3,624,31.4,0.4888,0.4447
+Bhadresh,Q4 (longest),678,41.2,0.4926,0.4387
