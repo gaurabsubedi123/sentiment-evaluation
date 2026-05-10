@@ -61,15 +61,5 @@ reason.
 └── README.md
 ```
 
-## Citation
 
-```
-@inproceedings{takahashi2026sentiment,
-  author    = {Takahashi, Tsuvi Rafael and Subedi, Gaurab and Fonseca, Jorge},
-  title     = {Evaluating the Use of Sentiment Analysis for Autobiographical Text},
-  booktitle = {Proceedings of the 52nd International Conference on Systems Engineering (ICSEng)},
-  series    = {Lecture Notes in Networks and Systems},
-  publisher = {Springer},
-  year      = {2026}
-}
 ```
