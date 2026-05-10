@@ -56,7 +56,7 @@ reason.
 ├── sentiment_analysis_full_pipeline.ipynb   main notebook
 ├── requirements.txt
 ├── results/                                 aggregate CSVs from the paper
-│   └── figures/                             PNGs + PDFs used in the paper
+│   └── figures/                             PNGs used in the paper
 ├── LICENSE                                  MIT, code only
 └── README.md
 ```
