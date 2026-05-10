@@ -1,0 +1,13 @@
+transformers>=4.40
+torch>=2.0
+spacy>=3.7
+spacytextblob>=4.0
+nltk>=3.8
+scikit-learn>=1.3
+scipy>=1.11
+scikit-posthocs>=0.8
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+jupyter>=1.0
