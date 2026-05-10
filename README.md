@@ -59,6 +59,3 @@ reason.
 │   └── figures/                             PNGs used in the paper
 └── README.md
 ```
-
-
-```
