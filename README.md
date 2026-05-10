@@ -57,7 +57,6 @@ reason.
 ├── requirements.txt
 ├── results/                                 aggregate CSVs from the paper
 │   └── figures/                             PNGs used in the paper
-├── LICENSE                                  MIT, code only
 └── README.md
 ```
 
